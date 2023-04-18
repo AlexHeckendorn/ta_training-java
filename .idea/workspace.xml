@@ -4,16 +4,155 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9ffcec6e-3979-4b0a-b9fa-c25c70b1a1bd" name="Changes" comment="Adding carousel to project">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/epam/training/Alexander_Heckendorn/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/epam/training/Alexander_Heckendorn/tester.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/AppTest.java" beforeDir="false" />
+    <list default="true" id="9ffcec6e-3979-4b0a-b9fa-c25c70b1a1bd" name="Changes" comment="Adding to README">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/compass/DirectionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/epam/training/Alexander_Heckendorn/average/Average.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/Alexander_Heckendorn/average/Average.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/epam/training/Alexander_Heckendorn/battleship8x8/Battleship8x8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/Alexander_Heckendorn/battleship8x8/Battleship8x8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/epam/training/Alexander_Heckendorn/beware_of_dogs/house/House.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/Alexander_Heckendorn/beware_of_dogs/house/House.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/epam/training/Alexander_Heckendorn/beware_of_dogs/house/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/Alexander_Heckendorn/beware_of_dogs/house/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/epam/training/Alexander_Heckendorn/beware_of_dogs/residents/cats/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/Alexander_Heckendorn/beware_of_dogs/residents/cats/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/epam/training/Alexander_Heckendorn/beware_of_dogs/residents/cats/Kitten.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/Alexander_Heckendorn/beware_of_dogs/residents/cats/Kitten.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/epam/training/Alexander_Heckendorn/beware_of_dogs/residents/dogs/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/Alexander_Heckendorn/beware_of_dogs/residents/dogs/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/epam/training/Alexander_Heckendorn/beware_of_dogs/residents/dogs/Puppy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/Alexander_Heckendorn/beware_of_dogs/residents/dogs/Puppy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/epam/training/Alexander_Heckendorn/catch_em_all/CatchEmAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/Alexander_Heckendorn/catch_em_all/CatchEmAll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/epam/training/Alexander_Heckendorn/compass/Direction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/Alexander_Heckendorn/compass/Direction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/epam/training/Alexander_Heckendorn/cycle_swap/CycleSwap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/Alexander_Heckendorn/cycle_swap/CycleSwap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/epam/training/Alexander_Heckendorn/decrementing_carousel/CarouselRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/Alexander_Heckendorn/decrementing_carousel/CarouselRun.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/epam/training/Alexander_Heckendorn/decrementing_carousel/DecrementingCarousel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/Alexander_Heckendorn/decrementing_carousel/DecrementingCarousel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/epam/training/Alexander_Heckendorn/decrementing_carousel_with_limit/CarouselRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/Alexander_Heckendorn/decrementing_carousel_with_limit/CarouselRun.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/epam/training/Alexander_Heckendorn/decrementing_carousel_with_limit/DecrementingCarousel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/Alexander_Heckendorn/decrementing_carousel_with_limit/DecrementingCarousel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/epam/training/Alexander_Heckendorn/decrementing_carousel_with_limit/DecrementingCarouselWithLimitedRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/Alexander_Heckendorn/decrementing_carousel_with_limit/DecrementingCarouselWithLimitedRun.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/epam/training/Alexander_Heckendorn/electronic_watch/ElectronicWatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/Alexander_Heckendorn/electronic_watch/ElectronicWatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/epam/training/Alexander_Heckendorn/figures/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/Alexander_Heckendorn/figures/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/epam/training/Alexander_Heckendorn/figures/Figure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/Alexander_Heckendorn/figures/Figure.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/epam/training/Alexander_Heckendorn/figures/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/Alexander_Heckendorn/figures/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/epam/training/Alexander_Heckendorn/figures/Quadrilateral.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/Alexander_Heckendorn/figures/Quadrilateral.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/epam/training/Alexander_Heckendorn/figures/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/Alexander_Heckendorn/figures/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/epam/training/Alexander_Heckendorn/figures_extra/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/Alexander_Heckendorn/figures_extra/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/epam/training/Alexander_Heckendorn/figures_extra/Figure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/Alexander_Heckendorn/figures_extra/Figure.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/epam/training/Alexander_Heckendorn/figures_extra/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/Alexander_Heckendorn/figures_extra/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/epam/training/Alexander_Heckendorn/figures_extra/Quadrilateral.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/Alexander_Heckendorn/figures_extra/Quadrilateral.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/epam/training/Alexander_Heckendorn/figures_extra/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/Alexander_Heckendorn/figures_extra/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/epam/training/Alexander_Heckendorn/go_dutch/GoDutch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/Alexander_Heckendorn/go_dutch/GoDutch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/epam/training/Alexander_Heckendorn/gradually_decreasing_carousel/CarouselRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/Alexander_Heckendorn/gradually_decreasing_carousel/CarouselRun.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/epam/training/Alexander_Heckendorn/gradually_decreasing_carousel/DecrementingCarousel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/Alexander_Heckendorn/gradually_decreasing_carousel/DecrementingCarousel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/epam/training/Alexander_Heckendorn/gradually_decreasing_carousel/GraduallyDecreasingCarousel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/Alexander_Heckendorn/gradually_decreasing_carousel/GraduallyDecreasingCarousel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/epam/training/Alexander_Heckendorn/halving_carousel/CarouselRun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/Alexander_Heckendorn/halving_carousel/CarouselRun.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/epam/training/Alexander_Heckendorn/halving_carousel/DecrementingCarousel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/Alexander_Heckendorn/halving_carousel/DecrementingCarousel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/epam/training/Alexander_Heckendorn/halving_carousel/HalvingCarousel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/Alexander_Heckendorn/halving_carousel/HalvingCarousel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/epam/training/Alexander_Heckendorn/line_intersection/Line.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/Alexander_Heckendorn/line_intersection/Line.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/epam/training/Alexander_Heckendorn/line_intersection/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/Alexander_Heckendorn/line_intersection/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/epam/training/Alexander_Heckendorn/line_intersection/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/Alexander_Heckendorn/line_intersection/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/epam/training/Alexander_Heckendorn/local_maxima_remove/LocalMaximaRemove.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/Alexander_Heckendorn/local_maxima_remove/LocalMaximaRemove.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/epam/training/Alexander_Heckendorn/max/MaxMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/Alexander_Heckendorn/max/MaxMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/epam/training/Alexander_Heckendorn/max_in_seq/FindMaxInSeq.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/Alexander_Heckendorn/max_in_seq/FindMaxInSeq.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/epam/training/Alexander_Heckendorn/meet_a_stranger/MeetAStranger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/Alexander_Heckendorn/meet_a_stranger/MeetAStranger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/epam/training/Alexander_Heckendorn/meet_an_agent/MeetAnAgent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/Alexander_Heckendorn/meet_an_agent/MeetAnAgent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/epam/training/Alexander_Heckendorn/meet_autocode/HelloAutocode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/Alexander_Heckendorn/meet_autocode/HelloAutocode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/epam/training/Alexander_Heckendorn/meet_strangers/HelloStrangers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/Alexander_Heckendorn/meet_strangers/HelloStrangers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/epam/training/Alexander_Heckendorn/multiply_matrices/MultiplyMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/Alexander_Heckendorn/multiply_matrices/MultiplyMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/epam/training/Alexander_Heckendorn/optional_max/MaxMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/Alexander_Heckendorn/optional_max/MaxMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/epam/training/Alexander_Heckendorn/pizza_split/PizzaSplit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/Alexander_Heckendorn/pizza_split/PizzaSplit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/epam/training/Alexander_Heckendorn/quadratic_equation/QuadraticEquation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/Alexander_Heckendorn/quadratic_equation/QuadraticEquation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/epam/training/Alexander_Heckendorn/requirements/Requirements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/Alexander_Heckendorn/requirements/Requirements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/epam/training/Alexander_Heckendorn/segments/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/Alexander_Heckendorn/segments/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/epam/training/Alexander_Heckendorn/segments/Segment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/Alexander_Heckendorn/segments/Segment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/epam/training/Alexander_Heckendorn/snail/Snail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/Alexander_Heckendorn/snail/Snail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/epam/training/Alexander_Heckendorn/spiral/Spiral.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/Alexander_Heckendorn/spiral/Spiral.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/epam/training/Alexander_Heckendorn/sprint_planning/Sprint.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/Alexander_Heckendorn/sprint_planning/Sprint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/epam/training/Alexander_Heckendorn/sprint_planning/tickets/Bug.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/Alexander_Heckendorn/sprint_planning/tickets/Bug.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/epam/training/Alexander_Heckendorn/sprint_planning/tickets/Ticket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/Alexander_Heckendorn/sprint_planning/tickets/Ticket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/epam/training/Alexander_Heckendorn/sprint_planning/tickets/UserStory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/Alexander_Heckendorn/sprint_planning/tickets/UserStory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/epam/training/Alexander_Heckendorn/sum_of_even_numbers/SumOfEvenNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/Alexander_Heckendorn/sum_of_even_numbers/SumOfEvenNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/epam/training/Alexander_Heckendorn/sum_of_previous/SumOfPrevious.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/Alexander_Heckendorn/sum_of_previous/SumOfPrevious.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/epam/training/Alexander_Heckendorn/task_Carousel/CompleteByRequestTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/Alexander_Heckendorn/task_Carousel/CompleteByRequestTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/epam/training/Alexander_Heckendorn/task_Carousel/CountDownTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/Alexander_Heckendorn/task_Carousel/CountDownTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/epam/training/Alexander_Heckendorn/task_Carousel/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/Alexander_Heckendorn/task_Carousel/Task.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/epam/training/Alexander_Heckendorn/task_Carousel/TaskCarousel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/Alexander_Heckendorn/task_Carousel/TaskCarousel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/epam/training/Alexander_Heckendorn/transpose_matrix/TransposeMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/Alexander_Heckendorn/transpose_matrix/TransposeMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/epam/training/Alexander_Heckendorn/triangle/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/Alexander_Heckendorn/triangle/Point.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/epam/training/Alexander_Heckendorn/triangle/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/Alexander_Heckendorn/triangle/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/epam/training/Alexander_Heckendorn/validations_color_code/ColorCodeValidation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/Alexander_Heckendorn/validations_color_code/ColorCodeValidation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/epam/training/Alexander_Heckendorn/validations_epam_email/EpamEmailValidation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/Alexander_Heckendorn/validations_epam_email/EpamEmailValidation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/epam/training/Alexander_Heckendorn/words/StringUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/epam/training/Alexander_Heckendorn/words/StringUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/average/AverageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/average/AverageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/battleship8x8/Battleship8x8Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/battleship8x8/Battleship8x8Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/battleship8x8/CodeComplianceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/battleship8x8/CodeComplianceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/beware_of_dogs/house/HouseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/beware_of_dogs/house/HouseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/catch_em_all/CatchEmAllTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/catch_em_all/CatchEmAllTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/compass/DirectionTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/cycle_swap/CycleSwapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/cycle_swap/CycleSwapTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/cycle_swap/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/cycle_swap/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/decrementing_carousel/CarouselRunRandomTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/decrementing_carousel/CarouselRunRandomTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/decrementing_carousel/CarouselRunTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/decrementing_carousel/CarouselRunTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/decrementing_carousel/DecrementingCarouselTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/decrementing_carousel/DecrementingCarouselTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/decrementing_carousel_with_limit/CodeComplianceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/decrementing_carousel_with_limit/CodeComplianceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/decrementing_carousel_with_limit/DecrementingCarouselRunRandomTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/decrementing_carousel_with_limit/DecrementingCarouselRunRandomTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/decrementing_carousel_with_limit/DecrementingCarouselRunTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/decrementing_carousel_with_limit/DecrementingCarouselRunTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/decrementing_carousel_with_limit/DecrementingCarouselTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/decrementing_carousel_with_limit/DecrementingCarouselTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/decrementing_carousel_with_limit/DecrementingWithLimitCarouselRunRandomTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/decrementing_carousel_with_limit/DecrementingWithLimitCarouselRunRandomTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/decrementing_carousel_with_limit/DecrementingWithLimitCarouselRunTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/decrementing_carousel_with_limit/DecrementingWithLimitCarouselRunTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/decrementing_carousel_with_limit/DecrementingWithLimitCarouselTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/decrementing_carousel_with_limit/DecrementingWithLimitCarouselTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/electronic_watch/ElectronicWatchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/electronic_watch/ElectronicWatchTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/figures/CircleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/figures/CircleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/figures/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/figures/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/figures/QuadrilateralTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/figures/QuadrilateralTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/figures/TriangleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/figures/TriangleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/figures_extra/CircleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/figures_extra/CircleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/figures_extra/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/figures_extra/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/figures_extra/QuadrilateralTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/figures_extra/QuadrilateralTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/figures_extra/TriangleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/figures_extra/TriangleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/go_dutch/GoDutchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/go_dutch/GoDutchTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/gradually_decreasing_carousel/CodeComplianceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/gradually_decreasing_carousel/CodeComplianceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/gradually_decreasing_carousel/DecrementingCarouselRunRandomTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/gradually_decreasing_carousel/DecrementingCarouselRunRandomTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/gradually_decreasing_carousel/DecrementingCarouselRunTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/gradually_decreasing_carousel/DecrementingCarouselRunTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/gradually_decreasing_carousel/DecrementingCarouselTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/gradually_decreasing_carousel/DecrementingCarouselTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/gradually_decreasing_carousel/GraduallyDecreasingCarouselRunRandomTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/gradually_decreasing_carousel/GraduallyDecreasingCarouselRunRandomTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/gradually_decreasing_carousel/GraduallyDecreasingCarouselRunTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/gradually_decreasing_carousel/GraduallyDecreasingCarouselRunTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/gradually_decreasing_carousel/GraduallyDecreasingCarouselTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/gradually_decreasing_carousel/GraduallyDecreasingCarouselTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/halving_carousel/CodeComplianceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/halving_carousel/CodeComplianceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/halving_carousel/DecrementingCarouselRunRandomTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/halving_carousel/DecrementingCarouselRunRandomTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/halving_carousel/DecrementingCarouselRunTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/halving_carousel/DecrementingCarouselRunTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/halving_carousel/DecrementingCarouselTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/halving_carousel/DecrementingCarouselTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/halving_carousel/HalvingCarouselRunRandomTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/halving_carousel/HalvingCarouselRunRandomTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/halving_carousel/HalvingCarouselRunTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/halving_carousel/HalvingCarouselRunTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/halving_carousel/HalvingCarouselTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/halving_carousel/HalvingCarouselTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/line_intersection/LineIntersectionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/line_intersection/LineIntersectionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/local_maxima_remove/Tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/local_maxima_remove/Tests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/max/MaxMethodTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/max/MaxMethodTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/max_in_seq/FindMaxInSeqTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/max_in_seq/FindMaxInSeqTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/meet_a_stranger/MeetAStrangerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/meet_a_stranger/MeetAStrangerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/meet_an_agent/MeetAnAgentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/meet_an_agent/MeetAnAgentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/meet_autocode/HelloAutocodeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/meet_autocode/HelloAutocodeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/meet_strangers/HelloStrangersTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/meet_strangers/HelloStrangersTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/multiply_matrices/MultiplyMatrixTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/multiply_matrices/MultiplyMatrixTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/optional_max/MaxMethodTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/optional_max/MaxMethodTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/pizza_split/PizzaSplitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/pizza_split/PizzaSplitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/quadratic_equation/QuadraticEquationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/quadratic_equation/QuadraticEquationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/requirements/RequirementsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/requirements/RequirementsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/segments/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/segments/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/segments/SegmentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/segments/SegmentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/snail/SnailTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/snail/SnailTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/spiral/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/spiral/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/spiral/SpiralTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/spiral/SpiralTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/sprint_planning/SprintTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/sprint_planning/SprintTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/sprint_planning/codecompliance/CodeComplianceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/sprint_planning/codecompliance/CodeComplianceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/sprint_planning/tickets/BugTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/sprint_planning/tickets/BugTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/sprint_planning/tickets/TicketTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/sprint_planning/tickets/TicketTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/sprint_planning/tickets/UserStoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/sprint_planning/tickets/UserStoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/sum_of_even_numbers/Tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/sum_of_even_numbers/Tests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/sum_of_previous/Tests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/sum_of_previous/Tests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/task_Carousel/CodeComplianceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/task_Carousel/CodeComplianceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/task_Carousel/CompleteByRequestTaskTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/task_Carousel/CompleteByRequestTaskTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/task_Carousel/CountDownTaskTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/task_Carousel/CountDownTaskTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/task_Carousel/TaskCarouselTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/task_Carousel/TaskCarouselTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/transpose_matrix/TransposeMatrixTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/transpose_matrix/TransposeMatrixTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/triangle/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/triangle/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/triangle/TriangleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/triangle/TriangleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/validations_color_code/ColorCodeValidationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/validations_color_code/ColorCodeValidationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/validations_epam_email/EpamEmailValidationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/validations_epam_email/EpamEmailValidationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/epam/training/Alexander_Heckendorn/words/StringUtilTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/epam/training/Alexander_Heckendorn/words/StringUtilTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,18 +183,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/hdsky/Desktop/gitTest/contact-book",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/hdsky/Desktop/gitTest/contact-book&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="JUnit.org.epam.training.Alexander_Heckendorn in ta_training-java">
+}</component>
+  <component name="RunManager" selected="JUnit.com.epam.training.Alexander_Heckendorn in ta_training-java">
     <configuration name="AverageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ta_training-java" />
       <extension name="coverage">
@@ -86,17 +225,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HouseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="com.epam.training.Alexander_Heckendorn in ta_training-java" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ta_training-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.epam.training.Alexander_Heckendorn.beware_of_dogs.house.*" />
+          <option name="PATTERN" value="com.epam.training.Alexander_Heckendorn.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.epam.training.Alexander_Heckendorn.beware_of_dogs.house" />
-      <option name="MAIN_CLASS_NAME" value="org.epam.training.Alexander_Heckendorn.beware_of_dogs.house.HouseTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="com.epam.training.Alexander_Heckendorn" />
+      <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -131,11 +269,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.com.epam.training.Alexander_Heckendorn in ta_training-java" />
         <item itemvalue="JUnit.org.epam.training.Alexander_Heckendorn in ta_training-java" />
         <item itemvalue="JUnit.AverageTest" />
         <item itemvalue="JUnit.Battleship8x8Test" />
         <item itemvalue="JUnit.org.epam.training.Alexander_Heckendorn.battleship8x8 in ta_training-java" />
-        <item itemvalue="JUnit.HouseTest" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +307,21 @@
       <option name="project" value="LOCAL" />
       <updated>1681838717811</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Adding all the tasks completed during first part of course to repo, none of the tasks have been modified and are the same as when submited to GitLab">
+      <created>1681844619046</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1681844619046</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Adding to README">
+      <created>1681845057505</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1681845057505</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -187,6 +339,8 @@
     <MESSAGE value="Adding directories, alongside the default apps when creating quickstart archetype" />
     <MESSAGE value="checking if push works" />
     <MESSAGE value="Adding carousel to project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding carousel to project" />
+    <MESSAGE value="Adding all the tasks completed during first part of course to repo, none of the tasks have been modified and are the same as when submited to GitLab" />
+    <MESSAGE value="Adding to README" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding to README" />
   </component>
 </project>
